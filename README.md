@@ -1,7 +1,9 @@
 🍽️ Zomato Sales Dashboard (Power BI)
+
 This interactive Zomato Sales Dashboard is built using Power BI to analyze restaurant performance across various Indian cities. The dashboard provides clear insights into customer ratings, vote counts, pricing trends, and seller behavior.
 
 📊 Key Features:
+
 📍 Top Cities & Restaurant Insights
 Visualizes restaurant performance by votes and average ratings per city.
 
